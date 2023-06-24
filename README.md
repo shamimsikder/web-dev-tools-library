@@ -4,6 +4,8 @@ A curated list of React libraries, web development tools, and websites to enhanc
 ## Table of Contents
 
 - [Free Image](#free-image)
+- [Free Animation](#free-animation)
+- [React Icons](#react-icons)
 
 ## Free Image
 
