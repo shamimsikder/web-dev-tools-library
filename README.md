@@ -12,6 +12,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Free Image](#free-image)
 - [React Icons](#react-icons)
 - [React Animation](#react-animation)
+- [Toast Notification](#toast-notification)
 
 ## Free Image
 
@@ -35,3 +36,9 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [AOS](https://michalsnik.github.io/aos/)
 - [Animate.css](https://animate.style/)
 - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
+
+## Toast Notification
+
+- [React-Toastify](https://github.com/fkhadra/react-toastify)
+- [React Hot Toast](https://react-hot-toast.com/)
+- [React Notifications Component](https://github.com/teodosii/react-notifications-component)
