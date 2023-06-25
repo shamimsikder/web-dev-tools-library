@@ -5,7 +5,7 @@ A curated list of React libraries, web development tools, and websites to enhanc
 
 Thank you for considering contributing to the React Libraries and Tools list! Your contributions help make this resource more comprehensive and valuable for the community. Please take a moment to review the guidelines before getting started.
 
-Please review ()[]
+Please review (contributing guideline)[CONTRIBUTING.md]
 
 ## Table of Contents
 
