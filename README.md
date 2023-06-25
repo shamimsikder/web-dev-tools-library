@@ -11,6 +11,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 
 - [Free Image](#free-image)
 - [React Icons](#react-icons)
+- [React Animation](#react-animation)
 
 ## Free Image
 
@@ -26,3 +27,11 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Feather Icons](https://feathericons.com/)
 - [FontAwesome](https://fontawesome.com/v5/docs/web/use-with/react)
 - [Ant Design Icons](https://ant.design/components/icon)
+
+## React Animation
+
+- [Framer Motion](https://github.com/framer/motion)
+- [React Spring](https://github.com/pmndrs/react-spring)
+- [AOS](https://michalsnik.github.io/aos/)
+- [Animate.css](https://animate.style/)
+- [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
