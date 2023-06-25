@@ -13,6 +13,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [React Icons](#react-icons)
 - [React Animation](#react-animation)
 - [Toast Notification](#toast-notification)
+- [Rating](#rating)
 
 ## Free Image
 
@@ -42,3 +43,8 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [React-Toastify](https://github.com/fkhadra/react-toastify)
 - [React Hot Toast](https://react-hot-toast.com/)
 - [React Notifications Component](https://github.com/teodosii/react-notifications-component)
+
+## Rating
+
+- [React Rating](https://react-rating.onrender.com/)
+- [React-rater](https://github.com/NdYAG/react-rater)
