@@ -10,7 +10,6 @@ Please review [contributing guideline](CONTRIBUTING.md)
 ## Table of Contents
 
 - [Free Image](#free-image)
-- [Free Animation](#free-animation)
 - [React Icons](#react-icons)
 
 ## Free Image
@@ -20,3 +19,10 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Pixbay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Stocksnap](https://stocksnap.io/)
+
+## React Icons
+
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Feather Icons](https://feathericons.com/)
+- [FontAwesome](https://fontawesome.com/v5/docs/web/use-with/react)
+- [Ant Design Icons](https://ant.design/components/icon)
