@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the React Libraries and Tools list! Your contributions help make this resource more comprehensive and valuable for the community. Please take a moment to review the guidelines before getting started.
+We appreciate your interest in contributing to the React Libraries and Tools list. Your contributions are invaluable in enhancing the comprehensiveness and value of this resource for the community. Thank you for your support!
 
 ## How to Contribute
 
