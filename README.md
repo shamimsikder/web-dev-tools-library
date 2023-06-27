@@ -15,6 +15,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Toast Notification](#toast-notification)
 - [Rating](#rating)
 - [Form](#form)
+- [Charts](#charts)
 
 ## Free Image
 
@@ -55,3 +56,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Formik](https://formik.org/docs/overview)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Final Form](https://final-form.org/docs/react-final-form/getting-started)
+
+## Charts
+
+- [Recharts](https://recharts.org/en-US/)
