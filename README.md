@@ -60,3 +60,5 @@ Please review [contributing guideline](CONTRIBUTING.md)
 ## Charts
 
 - [Recharts](https://recharts.org/en-US/)
+- [React-chartjs-2](https://react-chartjs-2.js.org/)
+- [Victory](https://formidable.com/open-source/victory/)
