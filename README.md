@@ -68,3 +68,5 @@ Please review [contributing guideline](CONTRIBUTING.md)
 
 - [Moment.js](https://momentjs.com/)
 - [luxon](https://moment.github.io/luxon/#/install)
+- [date-fns](https://date-fns.org/docs/Getting-Started)
+- [Day.js](https://github.com/iamkun/dayjs)
