@@ -10,6 +10,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 ## Table of Contents
 
 - [Free Image](#free-image)
+- [Gradient Generator](#gradient-generator)
 - [React Icons](#react-icons)
 - [React Animation](#react-animation)
 - [Toast Notification](#toast-notification)
@@ -25,6 +26,10 @@ Please review [contributing guideline](CONTRIBUTING.md)
 - [Pixbay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Stocksnap](https://stocksnap.io/)
+
+## Gradient Generator
+
+- [Tailwind CSS Gradient Generator][https://tailwindcomponents.com/gradient-generator/]
 
 ## React Icons
 
