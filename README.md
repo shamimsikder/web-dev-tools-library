@@ -29,7 +29,7 @@ Please review [contributing guideline](CONTRIBUTING.md)
 
 ## Gradient Generator
 
-- [Tailwind CSS Gradient Generator][https://tailwindcomponents.com/gradient-generator/]
+- [Tailwind CSS Gradient Generator](https://tailwindcomponents.com/gradient-generator/)
 
 ## React Icons
 
